@@ -15,13 +15,17 @@ Additional Features:-
 
 Here is the Preview of the TextUtils Website.
 
-
+https://user-images.githubusercontent.com/91668990/167866015-01463916-3013-4258-a685-cfc2373a2245.mov
 
 Framworks and Languages used:-
 1. React
 2. Javascript
 3. Bootstap
 4. HTML
+
+
+
+
 
 
 
