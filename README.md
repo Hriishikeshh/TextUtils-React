@@ -2,7 +2,7 @@
 It is an website which allows you to edit your text.
 You can edit your text in the following ways:-
 1. You can <b>convert your text to Uppercase</b>.
-2. You can <b>convert your text to Lowerase.</b>
+2. You can <b>convert your text to Lowercase.</b>
 3. You can <b>remove Extra Spaces from your text.</b>
 
 Additional Features:-
